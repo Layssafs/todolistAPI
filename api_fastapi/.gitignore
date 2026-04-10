@@ -7,7 +7,3 @@ venv/
 *.txt
 .vscode/
 .idea/
-dist/
-build/
-.next/
-out/
